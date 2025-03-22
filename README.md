@@ -1,2 +1,1 @@
-"# action-ping" 
-"# action-ping" 
+# action-ping
