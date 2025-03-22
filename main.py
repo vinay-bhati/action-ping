@@ -43,3 +43,4 @@ def keep_app_awake(url):
 
 if __name__ == "__main__":
     keep_app_awake("https://rv-cal.streamlit.app/")
+    keep_app_awake("https://rv-cal-v2.streamlit.app/")
