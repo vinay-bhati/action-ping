@@ -33,6 +33,7 @@ def keep_app_awake(url):
             # Switch back to main page
             driver.switch_to.default_content()
 
+        
         except Exception as e:
             print(f"No interaction performed: {e}")
 
